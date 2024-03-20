@@ -1,0 +1,14 @@
+
+body{
+    background-image: linear-gradient(teal, navy, indigo);
+    color: gold;
+    text-align: center;
+    border-style: solid;
+    border-size: 5px;
+    border-color:limegreen;
+
+}
+p{
+    margin-right: 50px;
+    margin-left: 50px;
+}
